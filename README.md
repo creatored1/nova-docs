@@ -89,7 +89,7 @@ Wake / PTT → STT → Intent → Router
 | Платные запросы | 50 за UTC-сутки | 1500 за UTC-месяц |
 | STT | Локальный Whisper | Локальный Whisper или Deepgram |
 | TTS | Silero v4 | Fish Audio |
-| Голоса | Ксения, Евгений | Nova, Mita, Jarvis, Dipper |
+| Голоса | Ксения, Евгений | Nova, Mita, Jarvis, Dipper, Rick |
 | NovaIsland | ✓ | ✓ |
 | 3D VRM-аватар | — | ✓ |
 

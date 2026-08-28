@@ -68,7 +68,7 @@ Free использует **DeepSeek V4 Flash** через Timeweb AI. Pro по 
 Free использует локальный faster-whisper в desktop-приложении. В Pro можно выбрать локальный Whisper или облачный Deepgram.
 
 **Какие голоса доступны?**
-Free может использовать Silero v4 и голоса Ксения/Евгений. Pro добавляет Fish Audio и голоса Nova, Mita, Jarvis и Dipper.
+Free может использовать Silero v4 и голоса Ксения/Евгений. Pro добавляет Fish Audio и голоса Nova, Mita, Jarvis, Dipper и Rick.
 
 **Нужны ли свои API-ключи?**
 Нет для базового использования. В **Настройки → ИИ** можно подключить собственные ключи Anthropic, Google AI, OpenAI, Mistral, DeepSeek, OpenRouter или OpenCode. Сохранённые ключи не публикуются и хранятся локально.
